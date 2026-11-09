@@ -44,5 +44,5 @@ Python Library: `PyMongo`
 
 Watch my five-minute Luxe Beauty Studio capstone presentation here:
 
-[Watch Final Project Presentation](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Watch Final Project Presentation](https://drive.google.com/file/d/1yrR6TGlB5x50rE4mRKhk5oNpXuDm52lt/view?usp=drive_link)
 
