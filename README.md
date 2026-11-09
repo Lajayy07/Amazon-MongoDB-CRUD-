@@ -39,4 +39,10 @@ Python Library: `PyMongo`
 
 `amazon_review_crud.py`
 
-https://drive.google.com/file/d/1yrR6TGlB5x50rE4mRKhk5oNpXuDm52lt/view?usp=sharing
+
+## Final Project Presentation
+
+Watch my five-minute Luxe Beauty Studio capstone presentation here:
+
+[Watch Final Project Presentation](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
